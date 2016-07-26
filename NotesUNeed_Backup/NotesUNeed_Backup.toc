@@ -1,0 +1,11 @@
+## Interface: 40100
+## Title: NotesUNeed_Backup
+## Notes: Provides the ability to make Back Up copies of NotesUNeed databases, and Restore them if needed
+## Dependencies: NotesUNeed
+## LoadOnDemand: 1
+## SavedVariables: NuNDataBackup, NuNSettingsBackup
+## X-Curse-Packaged-Version: NotesUNeed_6.69
+## X-Curse-Project-Name: NotesUNeed
+## X-Curse-Project-ID: notes-uneed
+## X-Curse-Repository-ID: wow/notes-uneed/mainline
+NotesUNeed_Backup.lua
